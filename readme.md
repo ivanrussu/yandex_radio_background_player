@@ -43,6 +43,8 @@ The app parses web page for emitting state.
 
 The app uses socket.js library for handling websockets.
 
+[Example remote controller app based on HTML and JS](https://github.com/ivanrussu/yrbp_remote).
+
 ## Commands
 
 | Command | Description |
