@@ -1,0 +1,14 @@
+{
+  "name": "yandex_radio_background_player",
+  "version": "1.0.0",
+  "description": "Yandex Radio player based on headless chrome and websockets",
+  "main": "main.js",
+  "author": "Ivan Russu <2ivanrussu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "puppeteer": "^8.0.0",
+    "socket.io": "^4.0.1"
+  }
+}
